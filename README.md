@@ -18,7 +18,7 @@ Este proyecto es una aplicación desarrollada con Flutter que muestra una lista 
    Clona este repositorio a tu máquina local usando el siguiente comando:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Sebasfc10/test_skuad.git
 
 ## Desiciones Tomadas
 - Patrón BLoC: Se tomó la decisión de utilizar el patrón BLoC ya que ofrece un entorno adecuado para manejar múltiples escenarios, por ejemplo, mostrar los artículos obtenidos en caso de error de conexión con la API. Para esta funcionalidad, se consideró almacenar inicialmente los artículos en SQLite para mostrarlos cuando no haya acceso a Internet.
