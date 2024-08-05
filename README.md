@@ -53,3 +53,4 @@ Además, se realizaron pruebas para el método fetchArticles.
 - mockito y build_runner: Para generar mocks, especialmente para el testing de fetchArticles.
 - bloc_test: Para pruebas concretas relacionadas con el estado y algunos widgets.
 # test_skuad
+# skuad_test
